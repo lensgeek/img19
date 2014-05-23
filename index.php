@@ -19,139 +19,18 @@
       <div class="large-12 columns">
         <div class="panel">
           <h3 class="text-center">Welcome to <span class="logo-font">IMG19</span> </h3>
-          <p><span class="logo-font">IMG 19</span> is a collective of nineteen image makers, based in Coventry, discussing photographic issues in the post-digital era. 
-
-Photography, considered a modern art form, is evanescent and is no longer bound by the paper’s edge; the IMG19 exhibition will evidence this as it showcases a variety of forms which photography takes in contemporary practice: from photofilms to traditional prints.
-
-The internationally acclaimed BA Photography course at Coventry University will be showcasing its 2014 graduates in the Lanchester Gallery from Friday 30th May. This exhibition is a must see for those interested in social documentary, digital media, and fantastic photography.</p>
+          <p><span class="logo-font">IMG 19</span> is a collective of nineteen image makers, based in Coventry, discussing photographic issues in the post-digital era. </p>
+          <p>Photography, considered a modern art form, is evanescent and is no longer bound by the paper’s edge; the IMG19 exhibition will evidence this as it showcases a variety of forms which photography takes in contemporary practice: from photofilms to traditional prints.</p>
+          <p>The internationally acclaimed BA Photography course at Coventry University will be showcasing its 2014 graduates in the Lanchester Gallery from Friday 30th May. This exhibition is a must see for those interested in social documentary, digital media, and fantastic photography.</p>
           <div class="row">
             <div class="large-4 medium-4 columns">
-          <p><a href="http://foundation.zurb.com/docs">Foundation Documentation</a><br />Everything you need to know about using the framework.</p>
+          <p><a href="http://twitter.com/img_19">Follow us on Twitter</a><br />Everything you need to know about using the framework.</p>
         </div>
             <div class="large-4 medium-4 columns">
-              <p><a href="http://github.com/zurb/foundation">Foundation on Github</a><br />Latest code, issue reports, feature requests and more.</p>
-            </div>
-            <div class="large-4 medium-4 columns">
-              <p><a href="http://twitter.com/foundationzurb">@foundationzurb</a><br />Ping us on Twitter if you have questions. If you build something with this we'd love to see it (and send you a totally boss sticker).</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="large-8 medium-8 columns">
-        <h5>Here&rsquo;s your basic grid:</h5>
-        <!-- Grid Example -->
-
-
-        </div>
-        <div class="row">
-          <div class="large-6 medium-6 columns">
-            <div class="callout panel">
-              <p>Six columns</p>
-            </div>
-          </div>
-          <div class="large-6 medium-6 columns">
-            <div class="callout panel">
-              <p>Six columns</p>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="large-4 medium-4 small-4 columns">
-            <div class="callout panel">
-              <p>Four columns</p>
-            </div>
-          </div>
-          <div class="large-4 medium-4 small-4 columns">
-            <div class="callout panel">
-              <p>Four columns</p>
-            </div>
-          </div>
-          <div class="large-4 medium-4 small-4 columns">
-            <div class="callout panel">
-              <p>Four columns</p>
-            </div>
-          </div>
-        </div>
-
-        <hr />
-
-        <h5>We bet you&rsquo;ll need a form somewhere:</h5>
-        <form>
-          <div class="row">
-            <div class="large-12 columns">
-              <label>Input Label</label>
-              <input type="text" placeholder="large-12.columns" />
-            </div>
-          </div>
-          <div class="row">
-            <div class="large-4 medium-4 columns">
-              <label>Input Label</label>
-              <input type="text" placeholder="large-4.columns" />
-            </div>
-            <div class="large-4 medium-4 columns">
-              <label>Input Label</label>
-              <input type="text" placeholder="large-4.columns" />
-            </div>
-            <div class="large-4 medium-4 columns">
-              <div class="row collapse">
-                <label>Input Label</label>
-                <div class="small-9 columns">
-                  <input type="text" placeholder="small-9.columns" />
-                </div>
-                <div class="small-3 columns">
-                  <span class="postfix">.com</span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="large-12 columns">
-              <label>Select Box</label>
-              <select>
-                <option value="husker">Husker</option>
-                <option value="starbuck">Starbuck</option>
-                <option value="hotdog">Hot Dog</option>
-                <option value="apollo">Apollo</option>
-              </select>
-            </div>
-          </div>
-          <div class="row">
-            <div class="large-6 medium-6 columns">
-              <label>Choose Your Favorite</label>
-              <input type="radio" name="pokemon" value="Red" id="pokemonRed"><label for="pokemonRed">Radio 1</label>
-              <input type="radio" name="pokemon" value="Blue" id="pokemonBlue"><label for="pokemonBlue">Radio 2</label>
-            </div>
-            <div class="large-6 medium-6 columns">
-              <label>Check these out</label>
-              <input id="checkbox1" type="checkbox"><label for="checkbox1">Checkbox 1</label>
-              <input id="checkbox2" type="checkbox"><label for="checkbox2">Checkbox 2</label>
-            </div>
-          </div>
-          <div class="row">
-            <div class="large-12 columns">
-              <label>Textarea Label</label>
-              <textarea placeholder="small-12.columns"></textarea>
-            </div>
-          </div>
-        </form>
-      </div>
-
-      <div class="large-4 medium-4 columns">
-        <h5>Try one of these buttons:</h5>
-        <p><a href="#" class="small button">Simple Button</a><br/>
-        <a href="#" class="small radius button">Radius Button</a><br/>
-        <a href="#" class="small round button">Round Button</a><br/>
-        <a href="#" class="medium success button">Success Btn</a><br/>
-        <a href="#" class="medium alert button">Alert Btn</a><br/>
-        <a href="#" class="medium secondary button">Secondary Btn</a></p>
-        <div class="panel">
-          <!-- Begin MailChimp Signup Form -->
+                        <!-- Begin MailChimp Signup Form -->
           <div id="mc_embed_signup">
           <form action="http://img19.us3.list-manage.com/subscribe/post?u=ce8c8d627e2ce28defd2779b7&amp;id=fc47173b82" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-            <h2>Subscribe to our mailing list</h2>
+            <p>Subscribe to our mailing list</p>
           <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
           <div class="mc-field-group">
             <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -180,9 +59,16 @@ The internationally acclaimed BA Photography course at Coventry University will 
               <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
           </form>
           </div>
-          <a href="http://foundation.zurb.com/docs/" class="small button">Go to Foundation Docs</a>
+            </div>
+            <div class="large-4 medium-4 columns">
+              <p><a href="http://facebook.com/img19">Follow our facebook and event</a><br />Latest code, issue reports, feature requests and more.</p>
+            </div>
+          </div>
         </div>
       </div>
+    </div>
+
+
     </div>
 
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
