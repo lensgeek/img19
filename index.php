@@ -17,17 +17,18 @@
 
     <div class="row">
       <div class="large-12 columns">
-        <div class="panel">
+        <div class="panel statement">
           <h3 class="text-center">Welcome to <span class="logo-font">IMG19</span> </h3>
           <p><span class="logo-font">IMG 19</span> is a collective of nineteen image makers, based in Coventry, discussing photographic issues in the post-digital era. </p>
           <p>Photography, considered a modern art form, is evanescent and is no longer bound by the paper’s edge; the IMG19 exhibition will evidence this as it showcases a variety of forms which photography takes in contemporary practice: from photofilms to traditional prints.</p>
           <p>The internationally acclaimed BA Photography course at Coventry University will be showcasing its 2014 graduates in the Lanchester Gallery from Friday 30th May. This exhibition is a must see for those interested in social documentary, digital media, and fantastic photography.</p>
+          <p>For further updates leading up to the opening night, please follow below &amp; come back Friday 30th May at 18:00GMT to view our digital exhibition to compliment the Lanchester Gallery.</p>
           <div class="row">
             <div class="large-4 medium-4 columns">
-          <p><a href="http://twitter.com/img_19">Follow us on Twitter</a><br />Everything you need to know about using the framework.</p>
+          <p><a href="http://twitter.com/img_19" target="_blank">Follow us on Twitter</a><br />Everything you need to know about using the framework.</p>
         </div>
             <div class="large-4 medium-4 columns">
-                        <!-- Begin MailChimp Signup Form -->
+          <!-- Begin MailChimp Signup Form -->
           <div id="mc_embed_signup">
           <form action="http://img19.us3.list-manage.com/subscribe/post?u=ce8c8d627e2ce28defd2779b7&amp;id=fc47173b82" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
             <p>Subscribe to our mailing list</p>
@@ -45,12 +46,6 @@
             <label for="mce-LNAME">Last Name </label>
             <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
           </div>
-          <div class="mc-field-group input-group">
-              <strong>Email Format </strong>
-              <ul><li><input type="radio" value="html" name="EMAILTYPE" id="mce-EMAILTYPE-0"><label for="mce-EMAILTYPE-0">html</label></li>
-          <li><input type="radio" value="text" name="EMAILTYPE" id="mce-EMAILTYPE-1"><label for="mce-EMAILTYPE-1">text</label></li>
-          </ul>
-          </div>
             <div id="mce-responses" class="clear">
               <div class="response" id="mce-error-response" style="display:none"></div>
               <div class="response" id="mce-success-response" style="display:none"></div>
@@ -61,7 +56,7 @@
           </div>
             </div>
             <div class="large-4 medium-4 columns">
-              <p><a href="http://facebook.com/img19">Follow our facebook and event</a><br />Latest code, issue reports, feature requests and more.</p>
+              <p><a href="http://facebook.com/img19" target="_blank">Follow our facebook and event</a><br />Latest code, issue reports, feature requests and more.</p>
             </div>
           </div>
         </div>
