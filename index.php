@@ -44,12 +44,7 @@ The internationally acclaimed BA Photography course at Coventry University will 
         <h5>Here&rsquo;s your basic grid:</h5>
         <!-- Grid Example -->
 
-        <div class="row">
-          <div class="large-12 columns">
-            <div class="callout panel">
-              <p><strong>This is a twelve column section in a row.</strong> Each of these includes a div.panel element so you can see where the columns are - it's not required at all for the grid.</p>
-            </div>
-          </div>
+
         </div>
         <div class="row">
           <div class="large-6 medium-6 columns">
