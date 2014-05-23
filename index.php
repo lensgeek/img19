@@ -2,8 +2,8 @@
 <html class="no-js" lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Foundation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0" />
+    <title>IMG 19 - Exhibition 30th May // 5th June</title>
     <link rel="stylesheet" href="css/app.css" />
     <script src="bower_components/modernizr/modernizr.js"></script>
     <link rel="icon" type="image/gif" href="fav/favicon_64.gif">
@@ -18,7 +18,7 @@
     <div class="row">
       <div class="large-12 columns">
         <div class="panel">
-          <h3>We&rsquo;re stoked you want to see <span class="logo-font">IMG19</span> </h3>
+          <h3 class="text-center">Welcome to <span class="logo-font">IMG19</span> </h3>
           <p><span class="logo-font">IMG 19</span> To get going, this file (index.html) includes some basic styles you can modify, play around with, or totally destroy to get going.</p>
           <p>Once you've exhausted the fun in this document, you should check out:</p>
           <div class="row">
