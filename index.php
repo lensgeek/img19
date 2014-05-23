@@ -19,8 +19,11 @@
       <div class="large-12 columns">
         <div class="panel">
           <h3 class="text-center">Welcome to <span class="logo-font">IMG19</span> </h3>
-          <p><span class="logo-font">IMG 19</span> To get going, this file (index.html) includes some basic styles you can modify, play around with, or totally destroy to get going.</p>
-          <p>Once you've exhausted the fun in this document, you should check out:</p>
+          <p><span class="logo-font">IMG 19</span> is a collective of nineteen image makers, based in Coventry, discussing photographic issues in the post-digital era. 
+
+Photography, considered a modern art form, is evanescent and is no longer bound by the paper’s edge; the IMG19 exhibition will evidence this as it showcases a variety of forms which photography takes in contemporary practice: from photofilms to traditional prints.
+
+The internationally acclaimed BA Photography course at Coventry University will be showcasing its 2014 graduates in the Lanchester Gallery from Friday 30th May. This exhibition is a must see for those interested in social documentary, digital media, and fantastic photography.</p>
           <div class="row">
             <div class="large-4 medium-4 columns">
           <p><a href="http://foundation.zurb.com/docs">Foundation Documentation</a><br />Everything you need to know about using the framework.</p>
