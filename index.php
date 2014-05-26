@@ -12,58 +12,38 @@
     <div class="row">
       <div class="large-12 columns text-center logo-header">
         <img src="img/img19_circle2.gif" />
+      </div>    
+    </div>
+    <div class="row">
+      <div class="large-12 columns text-center panel">
+        <h1>Welcome to <i class="logo">img 19</i></h1>
+        <p>Photography, considered a modern art form, is no longer bound by the paper’s edge; the IMG19 exhibition will evidence this as it showcases a variety of forms which photography can take in contemporary practice. The featured artists use photography as a medium to raise awareness on important social demographics and engage with current debates such as the relation between photography, history, memory and space.</p>
+      </div>
+      <div class="large-12 columns">
+        <div class="medium-6 large-3 columns"><p>Some text and a <a href="#">link</a></p></div>
+        <div class="medium-6 large-3 columns"><p>Some text and a <a href="#">link</a></p></div>
+        <div class="medium-6 large-3 columns"><p>Some text and a <a href="#">link</a></p></div>
+        <div class="medium-6 large-3 columns"><p>Some text and a <a href="#">link</a></p></div>
       </div>
     </div>
-
     <div class="row">
       <div class="large-12 columns">
-        <div class="panel statement">
-          <h3 class="text-center">Welcome to <span class="logo-font">IMG19</span> </h3>
-          <p><span class="logo-font">IMG 19</span> is a collective of nineteen image makers, based in Coventry, discussing photographic issues in the post-digital era. </p>
-          <p>Photography, considered a modern art form, is evanescent and is no longer bound by the paper’s edge; the IMG19 exhibition will evidence this as it showcases a variety of forms which photography takes in contemporary practice: from photofilms to traditional prints.</p>
-          <p>The internationally acclaimed BA Photography course at Coventry University will be showcasing its 2014 graduates in the Lanchester Gallery from Friday 30th May. This exhibition is a must see for those interested in social documentary, digital media, and fantastic photography.</p>
-          <p>For further updates leading up to the opening night, please follow below &amp; come back Friday 30th May at 18:00GMT to view our digital exhibition to compliment the Lanchester Gallery.</p>
-          <div class="row">
-            <div class="large-4 medium-4 columns">
-          <p><a href="http://twitter.com/img_19" target="_blank">Follow us on Twitter</a><br />Everything you need to know about using the framework.</p>
+        <div class="twitter-feed large-4 columns">
+          <p><i class="fi-social-twitter"></i> follow our twitter</p>
+          <?php 
+            include 'latest-tweets/tweets.php'
+          ?>
         </div>
-            <div class="large-4 medium-4 columns">
-          <!-- Begin MailChimp Signup Form -->
-          <div id="mc_embed_signup">
-          <form action="http://img19.us3.list-manage.com/subscribe/post?u=ce8c8d627e2ce28defd2779b7&amp;id=fc47173b82" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-            <p>Subscribe to our mailing list</p>
-          <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-          <div class="mc-field-group">
-            <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-          </label>
-            <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-          </div>
-          <div class="mc-field-group">
-            <label for="mce-FNAME">First Name </label>
-            <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-          </div>
-          <div class="mc-field-group">
-            <label for="mce-LNAME">Last Name </label>
-            <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-          </div>
-            <div id="mce-responses" class="clear">
-              <div class="response" id="mce-error-response" style="display:none"></div>
-              <div class="response" id="mce-success-response" style="display:none"></div>
-            </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-              <div style="position: absolute; left: -5000px;"><input type="text" name="b_ce8c8d627e2ce28defd2779b7_fc47173b82" tabindex="-1" value=""></div>
-              <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-          </form>
-          </div>
-            </div>
-            <div class="large-4 medium-4 columns">
-              <p><a href="http://facebook.com/img19" target="_blank">Follow our facebook and event</a><br />Latest code, issue reports, feature requests and more.</p>
-            </div>
-          </div>
+        <div class="large-4 columns">
+          <p>Download a file here <i class="fi-page-export-pdf"></i></p>
+        </div>
+        <div class="large-4 columns">
+          <p>Launch into an external webpage <i class="fi-link"></i></p>
+          <?php 
+          @include "latest-insta/gram.php"
+          ?>
         </div>
       </div>
-    </div>
-
-
     </div>
 
     <script src="bower_components/jquery/dist/jquery.min.js"></script>

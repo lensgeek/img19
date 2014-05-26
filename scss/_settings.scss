@@ -54,10 +54,11 @@
   src: local('Droid Sans Bold'), local('DroidSans-Bold'), url(http://themes.googleusercontent.com/static/fonts/droidsans/v4/EFpQQyG9GqCrobXxL-KRMXbFhgvWbfSbdVg11QabG8w.woff) format('woff');
 }
 @font-face {
-  font-family: 'Code';
-  font-style: normal;
-  font-weight: normal;
-  src: local('CODE Light'), local('CODE-Light'), url(assets/CODE-Light.woff) format('woff');
+    font-family: 'CodeProLightDemoRegular';
+    src: url('../assets/Code_Pro_Light_Demo-webfont.woff') format('woff'),
+         url('../assets/Code_Pro_Light_Demo-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 $body-font-family: "Droid Sans", "Helvetica", Helvetica, Arial, sans-serif;
 // $body-font-weight: normal;

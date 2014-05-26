@@ -3,13 +3,20 @@
 	margin-bottom:50px;
 }
 
-span.logo-font {
-	font-family: "Code", Helvetica, Arial, sans-serif;
-	font-size:170%;
-	font-weight:400;
+.logo {
+	font-family: "CodeProLightDemoRegular", "Helvetica", Helvetica, Arial, sans-serif !important;
+	font-size:150%;
+	font-weight:300;
+	text-transform:uppercase;
+	font-style:normal;
 }
+
+.row {padding: 20 75;}
 
 .statement p {
 	text-align:justify;
-
+	max-width:750px;
+	margin: 20px auto 20px auto;
 }
+
+.indicates-required {font-size:75%;}
