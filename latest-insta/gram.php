@@ -17,13 +17,13 @@
         // Pulls and parses data.
         $result = fetchData("https://api.instagram.com/v1/users/{$userid}/media/recent/?count=1&access_token={$accessToken}");
         $result = json_decode($result);
-    ?>
+        
 
-
-    <?php foreach ($result->data as $post): ?>
+     foreach ($result->data as $post): ?>
         <!-- Renders images. @Options (thumbnail,low_resoulution, high_resolution) -->
         <a class="group" rel="group1" href="<?= $post->link ?>">
-            <img class="instathumb" src="<?= $post->images->standard_resolution->url ?>">
+            <div class="text-center">
+            <img class="instathumb" src="<?= $post->images->standard_resolution->url ?>"></div>
             <p><i class="fi-heart"></i> <?= $post->likes->count ?> likes <i class="fi-comment"></i> <?= $post->comments->count ?> comments</p>
         </a>
     <?php endforeach ?>
