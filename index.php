@@ -31,16 +31,17 @@
         <div class="twitter-feed large-4 columns">
           <p><i class="fi-social-twitter"></i> follow our twitter</p>
           <?php 
-            include 'latest-tweets/tweets.php'
+            include 'latest-tweets/tweets.php';
           ?>
         </div>
         <div class="large-4 columns">
           <p>Download a file here <i class="fi-page-export-pdf"></i></p>
-        </div>
-        <div class="large-4 columns">
           <p>Launch into an external webpage <i class="fi-link"></i></p>
+        </div>
+        <div class="instagram-feed large-4 columns">
+          <p><i class="fi-social-instagram"></i> follow our instgram</p>
           <?php 
-          @include "latest-insta/gram.php"
+          @include 'latest-insta/gram.php';
           ?>
         </div>
       </div>
