@@ -1,6 +1,9 @@
-# Foundation libsass template
+# IMG19 2014 Digital Exhibition
 
-This is a template to start your own project that uses Grunt and libsass!
+The responsive interactive digital exhibition for http://img19.org.
+Built to represent and complement the physical exhibition shown at the Lanchester Gallery, Coventry (UK)
+ - Bringing additional informatoin for people to discover and follow up through their visit. The site includes both
+ an interactive map for users to navigate by but also a method to follow the exhibition linearly. 
 
 ## Requirements
 

@@ -18,6 +18,17 @@
 	margin: 20px auto 20px auto;
 }
 
+a.marker {
+	path {
+		fill: #008CBA;
+	}
+	:visited {
+		path {
+			fill : #F2F2F2;
+		}
+	}
+}
+
 .instathumb {
 	width:100%;
 	max-width:614px;
