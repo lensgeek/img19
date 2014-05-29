@@ -79,6 +79,7 @@ foreach($result_array as $key => $value) {
 					
 					echo "<i class='fi-mail'></i>";
 					print_r($result_array['contact_email']);
+					echo "<br />";
 
 			};
 
