@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME} !\.(pdf|js|ico|gif|jpg|png|css|rar|zip|tar\.gz)$
+RewriteRule ^author/([^/.]+)/?$ index.php?author=$1 [L]
