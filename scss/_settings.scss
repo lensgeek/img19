@@ -42,17 +42,12 @@
 // $body-bg: #fff;
 // $body-font-color: #222;
 @font-face {
-  font-family: 'Droid Sans';
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
-  src: local('Droid Sans'), local('DroidSans'), url(http://themes.googleusercontent.com/static/fonts/droidsans/v4/s-BiyweUPV0v-yRb-cjciL3hpw3pgy2gAi-Ip7WPMi0.woff) format('woff');
+  src: local('Open Sans'), local('OpenSans'), url(http://themes.googleusercontent.com/static/fonts/opensans/v8/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
 }
-@font-face {
-  font-family: 'Droid Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Droid Sans Bold'), local('DroidSans-Bold'), url(http://themes.googleusercontent.com/static/fonts/droidsans/v4/EFpQQyG9GqCrobXxL-KRMXbFhgvWbfSbdVg11QabG8w.woff) format('woff');
-}
+
 @font-face {
     font-family: 'CodeProLightDemoRegular';
     src: url('../assets/Code_Pro_Light_Demo-webfont.woff') format('woff'),
@@ -60,7 +55,7 @@
     font-weight: normal;
     font-style: normal;
 }
-$body-font-family: "Droid Sans", "Helvetica", Helvetica, Arial, sans-serif;
+$body-font-family: "Open Sans", "Helvetica", Helvetica, Arial, sans-serif;
 // $body-font-weight: normal;
 // $body-font-style: normal;
 
@@ -137,8 +132,8 @@ $body-font-family: "Droid Sans", "Helvetica", Helvetica, Arial, sans-serif;
 // $include-html-type-classes: $include-html-classes;
 
 // We use these to control header font styles
-// $header-font-family: $body-font-family;
-$header-font-weight: 700;
+$header-font-family: "CodeProLightDemoRegular","Helvetica", Helvetica, Arial, sans-serif;
+$header-font-weight: 300;
 // $header-font-style: normal;
 // $header-font-color: #222;
 // $header-line-height: 1.4;
