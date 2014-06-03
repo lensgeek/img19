@@ -41,7 +41,7 @@ foreach($result_array as $key => $value) {
 	    <div class="medium-4 columns text-right">
 	       <ul class="no-bullet logo">
           <li><a href="author/alex-mason" title="Alex Mason">Alex Mason</a></li>
-          <li><a href="author/thaia-merriman" title="Tania Merriman">Tania Merriman</a></li>
+          <li><a href="author/tania-merriman" title="Tania Merriman">Tania Merriman</a></li>
           <li><a href="author/sophie-moet" title="Sophie Moet">Sophie Moet</a></li>
           <li><a href="author/melissa-santos" title="Melissa Santos">Melissa Santos</a></li>
           <li><a href="author/melissa-stapleton" title="Melissa Stapleton">Melissa Stapleton</a></li>
